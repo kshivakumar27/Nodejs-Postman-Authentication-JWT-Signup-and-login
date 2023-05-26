@@ -3,18 +3,18 @@ Nodejs Postman Authentication JWT  Signup and login
 
 # Output of connecting to mongoDB
 
-![MongoDB Connection](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/Images/OutputInConsole.png)
+![MongoDB Connection](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/images/OutputInConsole.png)
 
 # Sign up with POSTMAN with email and password generating unique Token 
 
-![Signup](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/Images/Signup.png)
+![Signup](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/images/Signup.png)
 
 #  Login POSTMAN with email and password generating unique Token 
 
-![Signup](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/Images/Login.png)
+![Login](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/images/Login.png)
 
 #  Validate unique Token 
 
-![Signup](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/Images/ValidateTokenAfterLogin.png)
+![Validate](https://github.com/kshivakumar27/Nodejs-Postman-Authentication-JWT-Signup-and-login/blob/main/images/ValidateTokenAfterLogin.png)
 
 
